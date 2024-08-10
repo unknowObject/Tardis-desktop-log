@@ -6,7 +6,7 @@
 
 This is a datapack for mod TARDIS REFINED. Adds a custome log theme desktop and also used Create for decoration. 
 
-I didn't test what will happend if you change to this desktop without Create so it's **HIGHLY RECOMMANDED to have Create installed**. If you don't like the Create features you could also replace them with vanilla or from other mods' blocks by yourself.
+I didn't test what will happend if you change to this desktop without Create so it's **HIGHLY RECOMMENDED to have Create installed**. If you don't like the Create features you could also replace them with vanilla or from other mods' blocks by yourself.
 
 The desktop includes a main lobby as controll room, a bedroom(don't forget to change the config file or your bed will explode when you're trying to sleep), a maximum enchanting table, a strorage and bath area, and of course the airlock. The four rooms are located on the corners(wired enough to say "corners of a circle") of the mian lobby.
 
